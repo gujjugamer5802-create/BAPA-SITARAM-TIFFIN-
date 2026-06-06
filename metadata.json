@@ -1,0 +1,6 @@
+{
+  "name": "Bapa Sitaram Tiffin",
+  "description": "Premium Gujarati Food Delivery & Accounting Application featuring real-time menu management, visual billing statements (Hisaab), and dynamic dark / light thematic styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
